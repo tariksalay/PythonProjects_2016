@@ -1,5 +1,0 @@
-print("İlk yazılımıma hoşgeldin baba")
-Name = input ("Selamun aleykum baba, ismin neydi?")
-print("Vay gardaşım" + Name, "hoşgelmişsen")
-X = input("Ee naber" + Name)
-print ("Allah daha", X, "etsin", Name, "baba")
