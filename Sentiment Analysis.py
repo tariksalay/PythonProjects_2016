@@ -1,26 +1,3 @@
-########################################################################
-##
-## CS 101
-## Program #7 Sentiment Analysis
-## Name : Tarik Salay
-## Email : tshh2@mail.umkc.edu
-## Creation Date : 4/24/2016
-## Due Date : 4/25/2016
-##
-##
-## PROBLEM :  Searching through a file that containing movie reviews from the Rotten Tomatoes, and have both a numeric score  as well as text. We are trying to determine general attitude of a writer by given some text they have written.
-##
-## ALGORITHM : Already sent.
-##      
-## ERROR HANDLING: None.
-##      
-##
-## OTHER COMMENTS: I used key=lambda method because it was the only way to sorting tuples that I found. Hopefully it is ok to use because I did not use any import.
-##      
-##
-########################################################################
-
-
 def menu(options, prompt):  # General menu function. The second part for the menu is at the bottom of the codes.
     choice_selected = False
     selection = []
