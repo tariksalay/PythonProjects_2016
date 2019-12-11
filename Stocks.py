@@ -1,25 +1,3 @@
-########################################################################
-##
-## CS 101
-## Program #6
-## Name : Tarik Salay
-## Email : tshh2@mail.umkc.edu
-## Creation Date : 4/10/2016
-## Due Date : 4/10/2016
-##
-##
-## PROBLEM : A program that asks the user tahat stock indexes they  want a history about, the date the stock was purchased, the date the stock was sold and how many  stocks were purchased.
-##
-## ALGORITHM : None.
-##
-## ERROR HANDLING: Many errors handling. I could not finish the program because of the other classes's exams and also CS101 exam 2. I am sorry about that, I'm uploading anyway with all I got.
-##
-##
-## OTHER COMMENTS:
-##
-##
-########################################################################
-
 import csv
 import datetime
 
