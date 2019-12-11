@@ -1,25 +1,3 @@
-########################################################################
-##
-## CS 101
-## Program #4 Transposition
-## Name : Tarik Salay
-## Email : tshh2@mail.umkc.edu
-## Creation Date : 3/12/2016
-## Due Date : 3/13/2016
-##
-##
-## PROBLEM:Transposing and un-transposing the lines from one file to the another one.
-##
-## ALGORITHM : Already sent.
-##
-## ERROR HANDLING: None.
-##
-##
-## OTHER COMMENTS: None.
-##
-##
-########################################################################
-
 def untranspose(message):
     wordlen = len(message)
     wordmid = wordlen / 2
