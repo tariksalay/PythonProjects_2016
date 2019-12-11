@@ -1,25 +1,3 @@
-﻿########################################################################
-##
-## CS 101
-## Program #5
-## Name : Tarik Salay
-## Email : tshh2@mail.umkc.edu
-## Creation Date : 3/26/2016
-## Due Date : 3/27/2016
-##
-##
-## PROBLEM : Converting a ppm file to its vintage and grayscale version.
-##
-## ALGORITHM : Sent.
-##
-## ERROR HANDLING: None for the real program but not sure about extra credit part.
-##
-##
-## OTHER COMMENTS: The part for extra credit, I am pretty sure about the functions that I wrote but not sure if I used them correctly in the loops in menu by opening, closing files and stuff like that.
-##
-##
-########################################################################
-
 from PIL import Image #To convert jpg files
 
 #I did the extra part's coding as it is explained on the internet. Even if I worked hard on it, still I am not so sure.
