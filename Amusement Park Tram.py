@@ -1,25 +1,3 @@
-########################################################################
-##
-## CS 101
-## Program #8
-## Name : Tarik Salay
-## Email : tshh2@mail.umkc.edu
-## Creation Date : 4/8/2016
-## Due Date : 5/8/2016
-##
-##
-## PROBLEM : Simple simulation of tourist that using the tram to go from one lot to  another. 
-##
-## ALGORITHM : Already sent.
-##      
-## ERROR HANDLING: None.
-##      
-##
-## OTHER COMMENTS: None.
-##      
-##
-########################################################################
-
 import random
 import sys
 
